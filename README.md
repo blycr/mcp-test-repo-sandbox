@@ -1,0 +1,1 @@
+# MCP Test Sandbox\nThis repository is used for testing GitHub MCP capabilities.
