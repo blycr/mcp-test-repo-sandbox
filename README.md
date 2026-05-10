@@ -1,1 +1,1 @@
-# MCP Test Sandbox\nThis repository is used for testing GitHub MCP capabilities.
+# MCP Test Sandbox\nThis repository is used for testing GitHub MCP capabilities.\n\n*Updated via push_files*
